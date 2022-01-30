@@ -1,5 +1,5 @@
 import React, { FC } from 'react'
-import { CustomCssProps } from '../types'
+import { CustomCssProps } from '../../../types'
 import tw, { css, styled } from 'twin.macro'
 
 type CardProps = CustomCssProps & {
